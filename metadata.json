@@ -1,5 +1,5 @@
 {
-  "name": "Amity Mess Management System",
+  "name": "Amity Mess",
   "description": "A modern mess management system for Amity University Rajasthan to reduce food waste, manage schedules, student preferences, and track payments.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
